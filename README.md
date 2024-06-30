@@ -19,14 +19,4 @@ Throughout this course, I explored writing Java code in a logical, structured, a
 - Create interactive applications with user interfaces.
 - Utilize SDKs and IDEs to streamline development.
 
-## Course Structure
 
-### Modules
-
-1. **Introduction to Java Programming**: Basics of Java and OOP.
-   
-2. **Object-Oriented Programming**: In-depth OOP principles and design patterns.
-   
-3. **Interactive Application Development**: Building UIs and handling user input.
-   
-4. **SDKs and IDEs**: Effective use of development tools.
